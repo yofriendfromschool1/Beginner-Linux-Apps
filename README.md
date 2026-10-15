@@ -129,6 +129,8 @@ chmod +x setup.sh
 sudo ./setup.sh
 ```
 
+> If it says "bash: git: command not found" then just install git with your system package manager
+
 > The script asks before installing the (large) app pack. Everything else is safe to accept — it only installs official distro packages and Flathub.
 
 ---
